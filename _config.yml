@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Yueyan Tang"
-  avatar           : "profile.png"
-  bio              : "phd student at University of California San Diego"
-  location         : "La Jolla"
+  avatar           : "webprofile.jpg"
+  bio              : "PhD student at University of California San Diego"
+  location         : "La Jolla, United States"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=GQTN8B4AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Yueyan-Tang"
+  email            :yyt005atucsddotedu
+  researchgate     : "https://www.researchgate.net/profile/Yueyan-Tang"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "yyt005"
   google_plus      :
   keybase          :
   instagram        :
